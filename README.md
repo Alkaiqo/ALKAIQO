@@ -12,16 +12,6 @@
   <h2>About</h2>
   <p>
     Currently focused on building a strong foundation in web development and programming fundamentals.
-  </p>
-  <p>
-    Exploring multiple areas in tech including:
-  </p>
-  <ul>
-    <li>Cloud Engineering</li>
-    <li>Cybersecurity / AI Security</li>
-    <li>Linux System Administration</li>
-    <li>Network Engineering</li>
-    <li>Embedded Systems</li>
   </ul>
 
   <hr>
@@ -31,23 +21,6 @@
     <li>HTML, CSS, JavaScript</li>
     <li>Programming logic and problem-solving</li>
     <li>Building beginner projects</li>
-  </ul>
-
-  <hr>
-
-  <h2>Timeline</h2>
-  <ul>
-    <li>Start: April 17, 2026</li>
-    <li>Target: June 4, 2026</li>
-  </ul>
-
-  <hr>
-
-  <h2>Projects</h2>
-  <ul>
-    <li>Personal Website (in progress)</li>
-    <li>To-Do List App (in progress)</li>
-    <li>Study Tracker (planned)</li>
   </ul>
 
   <hr>
