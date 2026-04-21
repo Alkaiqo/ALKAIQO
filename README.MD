@@ -4,7 +4,7 @@
 
   <p>
     15-year-old student learning programming from zero.<br>
-    Started small, curiosity stemmed at 12 years old and already thinking about my future. Interest grew in computer systems, how mere lines of code created a massive network of websites and application. My lifelong goal is to contribute to the tech industry by building solutions and staying adaptable in a constant growing field.
+    Started small, curiosity stemmed at 12 years old and already thinking about the future. Interest grew in computer systems, how mere lines of code created a massive network of websites and application. My lifelong goal is to contribute to the tech industry by building solutions and staying adaptable in a constant growing field.
   </p>
 
   <hr>
