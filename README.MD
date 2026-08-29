@@ -49,14 +49,4 @@ I value understanding systems end-to-end rather than just collecting technologie
 
 ---
 
-### 🌱 Current Learning Progress
-
-```text
-Python           [████████░░] Building Foundations
-Linux / Bash     [██████░░░░] Actively Learning
-Docker           [█████░░░░░] Exploring Containers
-Git / GitHub     [█████░░░░░] Developing Workflow
-CI/CD Pipelines  [███░░░░░░░] Next Focus
-AWS / Cloud      [██░░░░░░░░] Upcoming
-Kubernetes / IaC [█░░░░░░░░░] Future Goal
 </div>
