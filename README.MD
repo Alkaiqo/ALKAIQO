@@ -1,24 +1,61 @@
-# 💫 About Me:
-Hi, I'm [Your Name] 👋<br><br>I'm a developer in the early stages of my journey, with a growing focus on DevOps, MLOps, and Cloud Engineering.<br><br>I started taking an interest in programming at 12, initially through Python and gradually became more interested in what happens beyond the application itself — how software is packaged, deployed, automated, monitored, and operated reliably.<br><br>That interest led me toward Linux, Bash, Docker, CI/CD, cloud infrastructure, and automation.<br><br>I'm still learning, but I'm approaching it with a long-term goal: to understand systems deeply rather than simply learn tools individually.<br><br>Technical Focus<br>🐍 Development<br>Python<br>Scripting and automation<br>Software fundamentals<br>🐧 Systems & Automation<br>Linux<br>Bash<br>Command-line tooling<br>System fundamentals<br>Automation<br>🐳 Containers & Infrastructure<br>Docker<br>Containerization<br>Infrastructure concepts<br>Cloud computing<br>☁️ Cloud & DevOps<br><br>Currently working toward:<br><br>CI/CD pipelines<br>AWS<br>Infrastructure as Code<br>Kubernetes<br>Observability and monitoring<br>Deployment automation<br>🤖 MLOps<br><br>I'm also interested in the infrastructure side of machine learning — particularly how models and ML applications can be reliably developed, deployed, monitored, and maintained in production.<br><br>Engineering Mindset<br><br>I'm less interested in collecting technologies and more interested in understanding how the pieces fit together.<br><br>For example:<br><br>Code → Version Control → Testing → Build → Containerization → CI/CD → Cloud Infrastructure → Deployment → Monitoring<br><br>Understanding that lifecycle is what I want to build my foundation around.<br><br>I value:<br><br>Automation over repetitive manual work<br>Reproducibility over "it works on my machine"<br>Documentation over undocumented knowledge<br>Reliability over quick fixes<br>Understanding fundamentals over blindly following tutorials<br>Current Learning Path<br><br>My current focus is building a strong foundation in:<br><br>Python · Linux · Bash · Git/GitHub · Docker<br><br>Then moving deeper into:<br><br>CI/CD · AWS · Infrastructure as Code · Kubernetes · Observability · MLOps<br><br>I'm deliberately taking this step-by-step. Tools change, but the underlying engineering principles remain valuable.<br><br>What I'm Building Toward<br><br>My long-term goal is to become an engineer capable of working across the boundary between software and infrastructure — someone who understands not only how to build an application, but also how to make it deployable, scalable, observable, and maintainable.<br><br>Whether that eventually takes me toward DevOps, MLOps, or Cloud Engineering, I'm primarily focused on developing strong engineering fundamentals and learning how production systems actually work.<br><br>🌱 Currently Learning<br><br>Python<br>████████░░ Building foundations<br><br>Linux / Bash<br>██████░░░░ Actively learning<br><br>Docker<br>█████░░░░░ Exploring<br><br>Git / GitHub<br>█████░░░░░ Developing workflow<br><br>CI/CD<br>███░░░░░░░ Next focus<br><br>AWS / Cloud<br>██░░░░░░░░ Upcoming<br><br>Kubernetes / MLOps<br>█░░░░░░░░░ Future focus<br><br>I'm early in the journey, but I'm serious about where I'm taking it.<br><br>A little about how I learn<br><br>I prefer to build, break, investigate, and rebuild rather than only follow tutorials.<br><br>The goal isn't to know every tool.<br><br>The goal is to understand why the tool exists, what problem it solves, and where it fits into a larger system.<br><br>📌 Current Status<br><br>Learning → Experimenting → Building → Improving<br><br>I'm documenting that process here as I go.<br><br>If you're interested in DevOps, cloud, infrastructure, automation, or MLOps, feel free to explore my repositories or connect.<br><br>Learning systems. Building skills. Engineering toward production.
+# 💫 About Me
 
+Hi, I'm **Gab** 👋  
+*15-year-old high school student aspiring toward DevOps, MLOps, and Cloud Engineering.*
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Untalan Gabrielle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.suntalan67@gmail.com) 
-
-# 💻 Tech Stack:
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alkaiqo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alkaiqo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alkaiqo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alkaiqo&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alkaiqo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I started programming at 12 through Python, and my curiosity quickly shifted toward what happens beyond application code: how software is packaged, deployed, automated, and operated reliably. My long-term goal is to build solutions by mastering production engineering fundamentals.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alkaiqo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Socials & Contact
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Untalan%20Gabrielle)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.suntalan67@gmail.com)
+
+---
+
+### 💻 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### ⚙️ Technical Focus
+
+* **🐍 Development:** Python, Scripting & Automation, Software Fundamentals
+* **🐧 Systems:** Linux, Bash Scripting, Command-Line Tooling
+* **🐳 Containers & Infrastructure:** Docker, Kubernetes, Terraform, AWS
+* **🤖 MLOps:** Model Deployment, ML Lifecycle, Tracking via MLflow & Scikit-Learn
+
+---
+
+### 🧠 Engineering Mindset
+
+I value understanding systems end-to-end rather than just collecting technologies:
+
+`Code` ➔ `Version Control` ➔ `Testing` ➔ `Build` ➔ `Containerization` ➔ `CI/CD` ➔ `Cloud Infrastructure` ➔ `Deployment` ➔ `Monitoring`
+
+* **Automation** over repetitive manual work
+* **Reproducibility** over *"it works on my machine"*
+* **Documentation** over tribal knowledge
+* **System Fundamentals** over blindly copying tutorials
+
+---
+
+### 🌱 Current Learning Progress
+
+```text
+Python           [████████░░] Building Foundations
+Linux / Bash     [██████░░░░] Actively Learning
+Docker           [█████░░░░░] Exploring Containers
+Git / GitHub     [█████░░░░░] Developing Workflow
+CI/CD Pipelines  [███░░░░░░░] Next Focus
+AWS / Cloud      [██░░░░░░░░] Upcoming
+Kubernetes / IaC [█░░░░░░░░░] Future Goal
